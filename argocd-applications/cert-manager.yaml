@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/benjamintanweihao/argoflow
+    repoURL: https://github.com/MuhammadUsman90/argoflow.git
     targetRevision: HEAD
     path: cert-manager
     kustomize:
